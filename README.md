@@ -1,0 +1,4 @@
+- Install visual studio code
+- Install nodejs
+- Install cypress (see documentation in the official website right here  : https://docs.cypress.io/guides/overview/why-cypress)
+- via npm install cypress preprocesor (https://www.npmjs.com/package/cypress-cucumber-preprocessor)
